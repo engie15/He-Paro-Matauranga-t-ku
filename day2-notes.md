@@ -27,5 +27,30 @@ Doing this in our own communities.
 ## Hands On Coding Workshop with NeSI / Genomics Aotearoa
 
 - [Carpentries Incubator Indigenous Data Sovereignty](https://carpentries-incubator.github.io/Indigenous-Data-Sovereignty/)
+- [Training Material - Genomics](https://genomicsaotearoa.github.io/IndigiDataAotearoa-IntroToShell/)
+- [Genomics Aotearoa Data Repository](https://data.agdr.org.nz/)
+- `pwd` print working directory
+- `man ls` lists out the manual
+- `clear` clears the earlier commands
+- `l` is good for accessibility needs it will show you right away which is a directory
+- `grep` find a string in a file.
 
 
+## Panel Kōrero
+
+- **Rererangi:**
+  - You talked about historical data being created the crown about us, access to it, what is of use...
+    - What is something you have found of great collecitve benefit to you, your whānau, hapū - from your mahi?
+    - Ability to generate benefit from it.
+
+- **Manakore:**
+  - Ngā tikanga paerehe (Maui) Maori Data Sovereignty in the application
+  - IDI: In regards to the IDI, to my knowledge Microsoft is the core provider for our Government.
+    - 
+
+- **Jamie Hepi:**
+  - Neural Networks: 
+     - Collect the data, split into three parts - training, testing and validation set.
+     - Computational power: Server / in house on a mobile device.
+     - Datasets of taonga species - let's connect!
+     - 
