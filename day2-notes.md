@@ -53,4 +53,3 @@ Doing this in our own communities.
      - Collect the data, split into three parts - training, testing and validation set.
      - Computational power: Server / in house on a mobile device.
      - Datasets of taonga species - let's connect!
-     - 
